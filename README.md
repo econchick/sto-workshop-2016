@@ -14,7 +14,7 @@ Initial braindump for mentors to walk through
 
 ```sh
 $ git clone git@github.com:econchick/sto-workshop-2016
-$ cd sto-workshop-2015
+$ cd sto-workshop-2016
 $ virtualenv env
 $ source env/bin/activate
 $ pip install -r requirements.txt
